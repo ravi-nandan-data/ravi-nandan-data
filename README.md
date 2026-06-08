@@ -1,16 +1,15 @@
-# 💫 Hi 👋, I'm Ravi Nandan Yadav
-**A passionate Data Analytics || Data Science || Marketing Analytics from India**
+# 👋 Hi, I'm Ravi Nandan Yadav
 
-Email Me 👉 ✉️ **ravinandanyadavwork@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Data Analyst
-- 🌱 **I’m currently learning:** Data Science
-- 👯 **I’m looking to collaborate on:** Banking and E-commerce
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** ravinandanyadavwork@gmail.com
-- 😄 **Pronouns:** Ravi
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+**Data Analyst | Data Science Enthusiast | Marketing Analytics Professional**
+📧 Email: ravinandanyadavwork@gmail.com
+I am passionate about transforming data into actionable insights and helping businesses make data-driven decisions.
+- 🔭 **Currently working as:** Data Analyst
+- 🌱 **Currently learning:** Data Science, Machine Learning, and AI
+- 👯 **Open to collaboration on:** Data Analytics, Banking, E-commerce, and Research Projects
+- 🤝 **Looking for opportunities in:** Data Analytics, Business Intelligence, and AI-driven Solutions
+- 💬 **Ask me about:** Market Research, Data Analysis, SQL, Excel, Power BI, and Business Insights
+- 📫 **Reach me at:** ravinandanyadavwork@gmail.com
+- ⚡ **Fun Fact:** I enjoy turning complex data into meaningful business stories.
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ravi-nandan-data&theme=radical&no-frame=false&no-bg=true&margin-w=4)
