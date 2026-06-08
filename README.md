@@ -7,7 +7,7 @@ I am passionate about transforming data into actionable insights and helping bus
 - 🌱 **Currently learning:** Data Science, Machine Learning, and AI
 - 👯 **Open to collaboration on:** Data Analytics, Banking, E-commerce, and Research Projects
 - 🤝 **Looking for opportunities in:** Data Analytics, Business Intelligence, and AI-driven Solutions
-- 💬 **Ask me about:** Market Research, Data Analysis, SQL, Excel, Power BI, and Business Insights
+- 💬 **Ask me about:**  Data Analysis, Market Research, SQL, Excel, Power BI, and Business Insights
 - 📫 **Reach me at:** ravinandanyadavwork@gmail.com
 - ⚡ **Fun Fact:** I enjoy turning complex data into meaningful business stories.
 
