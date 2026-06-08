@@ -12,7 +12,7 @@ I am passionate about transforming data into actionable insights and helping bus
 - ⚡ **Fun Fact:** I enjoy turning complex data into meaningful business stories.
 
 - ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ravi-nandan-data&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravi-nandan-data&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Socials:[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004947880707)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r_n_y_2808/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-nandan-yadav-156a6a15a/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RaviNandanYada3) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ravinandanyadav2445)
 <!-- Snake Game Repo View -->
